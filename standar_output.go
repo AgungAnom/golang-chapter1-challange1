@@ -20,6 +20,8 @@ fmt.Printf("%T \n", i) // tipe data dari i
 fmt.Println("%") // print % ????
 fmt.Printf("%t \n", j) // print nilai j
 fmt.Printf("%b \n", i) // base 2 dari i
+fmt.Printf("%c \n", rune) // base 2 dari i
+
 fmt.Printf("%d \n", i) //base 10 dari i 
 fmt.Printf("%o \n", i) //base 8 dari i
 // fmt.Printf("%d \n", hexaAwal) // cari angka untuk dipakai di variabel hasilHex
